@@ -5,6 +5,7 @@ public class CreateContactTest {
 	@Test
 	public void createContact() {
 		System.out.println("======contact created=====");
+		System.out.println("======contact created=====");
 	}
 	
 	@Test
