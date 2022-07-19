@@ -6,6 +6,8 @@ public class CreateContactTest {
 	public void createContact() {
 		System.out.println("======contact created=====");
 		System.out.println("======contact created=====");
+		String browser = System.getProperty("BROWSER");
+		String url = System.getProperty("URL");
 	}
 	
 	@Test
